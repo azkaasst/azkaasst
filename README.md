@@ -12,9 +12,9 @@ Ini cocok untuk siswa SMK yang berada dijurusan tkj karena disini diajarkan step
 
 ## 2. User Story
 
-bla | bla | bla | bla
+user | bla | bla | game
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+user | bla | bla | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
