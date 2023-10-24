@@ -56,7 +56,7 @@ java io
 
 ## 6. Desain User Experience dan User Interface
 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+https://www.figma.com/file/FhkU6ycUMyRrB7y68KSBMY/Untitled?type=design&node-id=0%3A1&mode=design&t=tfPyw67yNBDT3V2R-1
 
 ## 7. Demonstrasi Video
 
