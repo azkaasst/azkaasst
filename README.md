@@ -28,21 +28,23 @@ Inspirasi desain:
 
 ## 2. User Story
 User | Saya ingin bisa | Sehingga | Prioritas
----|---|---|---
+
 User | Menjalankan pengguna maju mundur | User dapat melaju hingga finish | ⭐⭐⭐⭐⭐
----|---|---|---
+
 User | Melawan musuh / menembak | User dapat maju ke level selanjutnya | ⭐⭐⭐⭐⭐
----|---|---|---
+
 User | Mengklaim hardware / perangkat keras komputer | User dapat mengumpulkan hardware | ⭐⭐⭐⭐⭐
----|---|---|---
+
 
 ## 3. Struktur Data
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+    User ||--o{ MENEMBAK : tembak
+    User ||--|{ MELAJU : maju
+    User ||--o{ MENGCLAIM : claim
+    User ||--o{ FINISH : finish
 ```
 
 ## 4. Arsitektur Sistem
@@ -58,12 +60,11 @@ java io
 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
 ![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
 
 ## 7. Demonstrasi Video
 
-Link youtube nya
+Video nya belum buat pak dikarenakan aplikasi nya belum selesai
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
