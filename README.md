@@ -37,19 +37,15 @@ User | Mengklaim hardware / perangkat keras komputer | User dapat mengumpulkan h
 
 
 ## 3. Struktur Data
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
-```mermaid
-erDiagram
     User ||--o{ MENEMBAK : tembak
     User ||--|{ MELAJU : maju
     User ||--o{ MENGCLAIM : claim
     User ||--o{ FINISH : finish
-```
 
 ## 4. Arsitektur Sistem
 
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+-
 
 ## 5. Teknologi, Library, dan Framework
 Library Menggunakan 
