@@ -9,31 +9,36 @@ Game yang saya buat ini masih berhubungan dengan teknologi informasi karena game
 
 ## 1.3. Branding
 Game ini cocok untuk para anak sekolah / siswa SMP-SMK karena siswa sekarang senang bermain game dan mengharapkan memiliki PC dirumahnya, di game ini diajarkan untuk mengenali beberapa hardware yang terdapat pada komputer beserta fungsi fungsi nya, adanya game ini saya berharap siswa diumuran SMP sudah dapat mengenali hardware yang berada pada komputer dan dapat merakitnya sendiri
+
 Nama game : RakitPc
+
 Tagline: Menghadang dan menghadapi rintangan untuk merakit sebuah PC
+
 Campaign: 
+
 Target user:
 Usia 7+
 Seorang yang senang terhadap mesin teknologi informasi
 Seorang yang senang melewati rintangan di setiap levelnya
 Seorang yang ingin belajar tentang perangkat keras pada komputer
 Seorang yang ingin mencoba merakit pc pertamanya dirumah
+
 User experience theme:
 Mudah
 Sederhana
 Menyenangkan
 Mendapat wawasan
+
 Warna: ala suasana pagi / light blue / light yellow
+
 Inspirasi desain:
 
 ## 2. User Story
-User | Saya ingin bisa | Sehingga | Prioritas
-
-User | Menjalankan pengguna maju mundur | User dapat melaju hingga finish | ⭐⭐⭐⭐⭐
-
-User | Melawan musuh / menembak | User dapat maju ke level selanjutnya | ⭐⭐⭐⭐⭐
-
-User | Mengklaim hardware / perangkat keras komputer | User dapat mengumpulkan hardware | ⭐⭐⭐⭐⭐
+Sebagai | Saya ingin bisa| Sehingga |Prioritas
+---|---|---|---
+User | Menjalankan pengguna maju mundur | User dapat melaju hingga finish| ⭐⭐⭐⭐⭐
+User | Melawan musuh / menembak | User dapat maju ke level selanjutnya| ⭐⭐⭐⭐⭐
+User | Mengklaim hardware / perangkat keras komputer|User dapat mengumpulkan hardware| ⭐⭐⭐⭐⭐
 
 
 ## 3. Struktur Data
