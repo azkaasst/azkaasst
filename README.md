@@ -62,11 +62,7 @@ User | Mengklaim hardware / perangkat keras komputer|User dapat mengumpulkan har
 -
 
 ## 5. Teknologi, Library, dan Framework
-Library Menggunakan 
-java awt
-java swing
-java util
-java io
+Library Menggunakan java swing
 
 ## 6. Desain User Experience dan User Interface
 
