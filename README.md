@@ -1,6 +1,9 @@
 ## 1.1 Latar Belakang
+
 Game Merakit PC
+
 Game sederhana yang masih terhubung dengan dunia informatika yaitu merakit pc
+
 Konsep game ini yaitu awal mulanya terlintas dibenak saya ketika saya mengikuti mata kuliah praktikum dasar pemrograman yang mana pada pertemuan ke 6 belajar tentang game sederhana yang hanya tampil di CLI yaitu game jualan kue, game jualan kue ini hanya dapat maju mundur dan atas bawah saja. Saya terpikirkan untuk merubah konsepnya menjadi game yang terhubung pada dunia informatika yaitu merakit pc. Lebih tepatnya gambaran game ini yaitu seorang mahasiswa yang menginginkan pc tetapi harus mengumpulkan beberapa hardware dilevel yang berbeda dan tantangan yang berbeda. Dan jika semua hardware sudah terkumpul, pengguna merasa gembira dan senang dapat merakit dan menjalankan pcnya
 Game ini mempunyai kesimpulan dan pesan tersembunyi yaitu ketika seorang mahasiswa menginginkan sebuah pc , mereka harus susah payah menabung dan melewati beberapa rintangan untuk mengumpulkan part part pc / hardware yang mereka ingin agar terciptanya sebuah PC yang mereka inginkan
 
