@@ -20,21 +20,27 @@ Tagline: Menghadang dan menghadapi rintangan untuk merakit sebuah PC
 Campaign: 
 
 Target user:
+
 Usia 7+
-Seorang yang senang terhadap mesin teknologi informasi
-Seorang yang senang melewati rintangan di setiap levelnya
-Seorang yang ingin belajar tentang perangkat keras pada komputer
-Seorang yang ingin mencoba merakit pc pertamanya dirumah
+- Seorang yang senang terhadap mesin teknologi informasi
+
+- Seorang yang senang melewati rintangan di setiap levelnya
+
+- Seorang yang ingin belajar tentang perangkat keras pada komputer
+
+- Seorang yang ingin mencoba merakit pc pertamanya dirumah
 
 User experience theme:
-Mudah
-Sederhana
-Menyenangkan
-Mendapat wawasan
 
-Warna: ala suasana pagi / light blue / light yellow
+- Mudah
 
-Inspirasi desain:
+- Sederhana
+
+- Menyenangkan
+
+- Mendapat wawasan
+
+Warna: perpaduan hijau dan biru terlihat sedikit elegant
 
 ## 2. User Story
 Sebagai | Saya ingin bisa| Sehingga |Prioritas
