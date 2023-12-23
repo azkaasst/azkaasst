@@ -4,6 +4,7 @@
 https://blogazkan.wordpress.com/2023/12/22/apa-itu-computational-thinking-dalam-informatika/
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+https://blogazkan.wordpress.com/2023/12/23/mengenal-jenis-jenis-mesin-komputasi/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
