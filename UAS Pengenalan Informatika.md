@@ -11,6 +11,7 @@ https://blogazkan.wordpress.com/2023/12/23/mengenal-jenis-jenis-mesin-komputasi/
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
+https://youtu.be/9uRqP8NhvXs
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
