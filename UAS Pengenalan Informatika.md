@@ -135,6 +135,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+https://github.com/azkaasst/azkaasst/blob/main/Biodata%20Azka.MD
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
