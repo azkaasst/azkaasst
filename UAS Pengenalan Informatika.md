@@ -133,6 +133,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+https://www.linkedin.com/in/azka-assetya-defano-579094257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 https://github.com/azkaasst/azkaasst/blob/main/Biodata%20Azka.MD
