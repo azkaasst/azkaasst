@@ -7,15 +7,16 @@ https://blogazkan.wordpress.com/2023/12/22/apa-itu-computational-thinking-dalam-
 https://blogazkan.wordpress.com/2023/12/23/mengenal-jenis-jenis-mesin-komputasi/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+https://youtu.be/pIur9y7PCl4
 
 ## Mencoba Console Sistem Operasi
-
 ### Windows CMD [v] ⭐⭐⭐⭐
 https://youtu.be/9uRqP8NhvXs
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+https://youtu.be/l1eU2MosJZU
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
