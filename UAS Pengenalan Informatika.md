@@ -129,12 +129,16 @@ https://youtu.be/GCxk6eGz5eU
 https://youtu.be/ZDf5ZamrS94
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+https://youtu.be/w1X4t9uivv8
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+https://youtu.be/Ic_HfnZXE5s
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+https://youtu.be/VvG23bHLbhk
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+https://youtu.be/OyqRdLVpTz8
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 https://www.linkedin.com/in/azka-assetya-defano-579094257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
