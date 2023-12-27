@@ -149,6 +149,7 @@ https://github.com/azkaasst/azkaasst/blob/main/Biodata%20Azka.MD
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+https://blogazkan.wordpress.com/2023/12/27/book-review-my-robot-gets-me/
 
 
 
