@@ -23,6 +23,7 @@ https://youtu.be/l1eU2MosJZU
 https://blogazkan.wordpress.com/2023/12/25/membuat-algoritma-dalam-bentuk-flowchart/
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+id : brigadeto
 
 Referensi [1](https://scratch.mit.edu/)
 
