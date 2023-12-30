@@ -25,8 +25,8 @@ https://blogazkan.wordpress.com/2023/12/25/membuat-algoritma-dalam-bentuk-flowch
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 https://youtu.be/SB4W0v8c1RQ
 
-
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+https://youtu.be/Vobb5XcHxWM?si=UPN5T37oablmzkO0
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
