@@ -23,47 +23,10 @@ https://youtu.be/l1eU2MosJZU
 https://blogazkan.wordpress.com/2023/12/25/membuat-algoritma-dalam-bentuk-flowchart/
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-id : brigadeto
+https://youtu.be/SB4W0v8c1RQ
 
-Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-public class BubbleSort {
-
-    public static void main(String[] args) {
-        int[] arr = {64, 34, 25, 12, 22, 11, 90};
-
-        System.out.println("Array sebelum diurutkan:");
-        printArray(arr);
-
-        bubbleSort(arr);
-
-        System.out.println("\nArray setelah diurutkan dengan Bubble Sort:");
-        printArray(arr);
-    }
-
-    static void bubbleSort(int[] arr) {
-        int n = arr.length;
-        for (int i = 0; i < n - 1; i++) {
-            for (int j = 0; j < n - i - 1; j++) {
-                if (arr[j] > arr[j + 1]) {
-                    // swap arr[j+1] and arr[i]
-                    int temp = arr[j];
-                    arr[j] = arr[j + 1];
-                    arr[j + 1] = temp;
-                }
-            }
-        }
-    }
-
-    static void printArray(int[] arr) {
-        for (int value : arr) {
-            System.out.print(value + " ");
-        }
-        System.out.println();
-    }
-}
-
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
@@ -144,6 +107,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+https://youtu.be/69Tz_W2GGZQ
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
@@ -152,12 +116,15 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+https://wordpress.com/post/blogazkan.wordpress.com/80
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
+
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+https://youtu.be/QsBjt-B1gHI
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 https://youtu.be/GCxk6eGz5eU
