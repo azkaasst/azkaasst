@@ -29,6 +29,7 @@ https://youtu.be/SB4W0v8c1RQ
 https://youtu.be/Vobb5XcHxWM?si=UPN5T37oablmzkO0
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+https://youtu.be/7hy2MfphW08
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
