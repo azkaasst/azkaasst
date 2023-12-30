@@ -119,6 +119,7 @@ https://youtu.be/69Tz_W2GGZQ
 https://wordpress.com/post/blogazkan.wordpress.com/80
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+https://youtu.be/U46BPcRGQAI
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 ![Bukti menonton video tugas akhir informatika](https://github.com/azkaasst/azkaasst/assets/146172353/27419f8d-9cf8-4682-9d97-fcc8295dad10)
