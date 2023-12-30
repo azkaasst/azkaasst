@@ -53,12 +53,9 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+https://youtu.be/wuz2cJo4apA
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
@@ -126,7 +123,6 @@ https://youtu.be/U46BPcRGQAI
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 ![Bukti menonton video tugas akhir informatika](https://github.com/azkaasst/azkaasst/assets/146172353/27419f8d-9cf8-4682-9d97-fcc8295dad10)
-
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 https://youtu.be/QsBjt-B1gHI
