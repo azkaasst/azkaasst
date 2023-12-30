@@ -32,10 +32,12 @@ https://youtu.be/Vobb5XcHxWM?si=UPN5T37oablmzkO0
 https://youtu.be/7hy2MfphW08
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+https://youtu.be/g1fo6qgIncs?si=i-7amMGnCcxqj_Iq
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+https://youtu.be/OpoRG-TNtDE?si=2vZLVQKBLsNklMvx
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
