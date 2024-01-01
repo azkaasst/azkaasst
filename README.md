@@ -69,8 +69,243 @@ Library Menggunakan java swing
 https://www.figma.com/file/FhkU6ycUMyRrB7y68KSBMY/Untitled?type=design&node-id=0%3A1&mode=design&t=tfPyw67yNBDT3V2R-1
 
 ## 7. Demonstrasi Video
+import java.awt.*;
+import java.awt.event.*;
+import java.awt.image.*;
+import javax.swing.*;
+import java.io.File;
+import java.io.IOException;
+import javax.imageio.ImageIO;
+import java.util.Random;
 
-Video nya belum buat pak dikarenakan aplikasi nya belum selesai
+public class GameRpc extends JPanel {
+
+    private Player player = new Player();
+    private Musuh musuh = new Musuh();
+
+    private BufferedImage asetImageKarakter, asetImageMusuh;
+
+    private int nyawaKarakter = 3;
+    private int nyawaMusuh = 3;
+
+    public void mulaiHitungan() {
+        int detikBerjalan = 0;
+
+        while (detikBerjalan >= 0) {
+            System.out.println(detikBerjalan);
+            detikBerjalan++;
+
+            this.repaint();
+
+            if (player.tabrakMusuh(musuh)) {
+                if (player.energi > 0) {
+                    player.energi--;
+                } else {
+                    System.out.println("Game Over!");
+                    System.exit(0);
+                }
+                System.out.println("Nyawa Karakter: " + player.energi);
+
+                player.pantulkan();
+                musuh.gerakRandom();
+            } else {
+                musuh.gerakMenuju(player); 
+            }
+
+            musuh.periksaTembok(this);
+
+            try {
+                Thread.sleep(100);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
+    public GameRpc() {
+        setBackground(new Color(173, 216, 230));
+
+        try {
+            asetImageKarakter = ImageIO.read(new File("./karakter.png"));
+            asetImageMusuh = ImageIO.read(new File("./musuh.png"));
+        } catch (IOException e) {
+            System.out.println("Gagal membuka file image");
+        }
+
+        GameRpc gameIni = this;
+
+        JButton closeButton = new JButton("Close");
+        closeButton.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent e) {
+                System.exit(0); 
+            }
+        });
+
+        setLayout(new BorderLayout());
+        add(closeButton, BorderLayout.NORTH);
+
+        KeyboardFocusManager.getCurrentKeyboardFocusManager()
+                .addKeyEventDispatcher(new KeyEventDispatcher() {
+                    @Override
+                    public boolean dispatchKeyEvent(KeyEvent e) {
+                        switch (e.getKeyCode()) {
+                            case KeyEvent.VK_UP:
+                                gameIni.player.majuY(-1);
+                                break;
+                            case KeyEvent.VK_DOWN:
+                                gameIni.player.majuY(1);
+                                break;
+                            case KeyEvent.VK_LEFT:
+                                gameIni.player.majuX(-1);
+                                break;
+                            case KeyEvent.VK_RIGHT:
+                                gameIni.player.majuX(1);
+                                break;
+                        }
+                        gameIni.repaint();
+                        return false;
+                    }
+                });
+    }
+
+    public static void main(String[] args) {
+        JFrame f = new JFrame();
+
+        GameRpc game = new GameRpc();
+        game.setPreferredSize(new Dimension(800, 600));
+        f.add(game);
+
+        f.setTitle("Game RPC");
+        f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        f.setExtendedState(JFrame.MAXIMIZED_BOTH); 
+        f.setUndecorated(true); 
+        f.setVisible(true);
+
+        game.mulaiHitungan();
+    }
+
+    public void paint(Graphics g) {
+        super.paint(g);
+        
+        g.drawImage(this.asetImageMusuh, this.musuh.posisi[0], this.musuh.posisi[1], this);
+
+        g.drawImage(this.asetImageKarakter, this.player.posisi[0], this.player.posisi[1], this);
+
+        g.setColor(Color.BLACK);
+        g.fillRect(10, 10, getWidth() - 20, 10);
+        g.fillRect(10, 10, 10, getHeight() - 20); 
+        g.fillRect(getWidth() - 20, 10, 10, getHeight() - 20);
+        g.fillRect(10, getHeight() - 20, getWidth() - 20, 10); 
+    }
+}
+
+class Player {
+    int[] posisi = new int[] { 800 - lebarKarakter, 600 - tinggiKarakter }; 
+    int pengaliLangkahMaju = 16;
+    static final int lebarKarakter = 50;
+    static final int tinggiKarakter = 50; 
+    int energi = 100; // Tambahkan variabel energi dengan nilai awal 100
+
+    private int[] posisiSebelumPemantulan = new int[2];
+    private boolean sedangPemantulan = false;
+
+    void majuX(int xRelatif) {
+        int newX = posisi[0] + (xRelatif * pengaliLangkahMaju);
+        if (newX >= 10 && newX <= 800 - 10 - lebarKarakter) {
+            if (!sedangPemantulan) {
+                posisiSebelumPemantulan[0] = posisi[0];
+                posisiSebelumPemantulan[1] = posisi[1];
+            }
+
+            posisi[0] = newX;
+        }
+    }
+
+    void majuY(int yRelatif) {
+        int newY = posisi[1] + (yRelatif * pengaliLangkahMaju);
+        if (newY >= 10 && newY <= 600 - 10 - tinggiKarakter) {
+            if (!sedangPemantulan) {
+                posisiSebelumPemantulan[0] = posisi[0];
+                posisiSebelumPemantulan[1] = posisi[1];
+            }
+
+            posisi[1] = newY;
+        }
+    }
+
+    boolean tabrakMusuh(Musuh musuh) {
+        Rectangle karakterBounds = new Rectangle(posisi[0], posisi[1], lebarKarakter, tinggiKarakter);
+        Rectangle musuhBounds = new Rectangle(musuh.posisi[0], musuh.posisi[1], Musuh.lebarMusuh, Musuh.tinggiMusuh);
+        return karakterBounds.intersects(musuhBounds);
+    }
+
+    void pantulkan() {
+        posisi[0] = posisiSebelumPemantulan[0];
+        posisi[1] = posisiSebelumPemantulan[1];
+
+        pengaliLangkahMaju *= -1;
+
+        sedangPemantulan = true;
+
+        Timer timer = new Timer(500, new ActionListener() {
+            public void actionPerformed(ActionEvent e) {
+                sedangPemantulan = false;
+            }
+        });
+        timer.setRepeats(false);
+        timer.start();
+    }
+}
+
+class Musuh {
+    int[] posisi = new int[] { 100, 100 };
+    int pengaliLangkahMaju = 8;
+    static final int lebarMusuh = 50;
+    static final int tinggiMusuh = 50;
+
+    void majuX(int xRelatif) {
+        posisi[0] += (xRelatif * pengaliLangkahMaju);
+    }
+
+    void majuY(int yRelatif) {
+        posisi[1] += (yRelatif * pengaliLangkahMaju);
+    }
+
+    void periksaTembok(GameRpc game) {
+        if (posisi[0] <= 10 || posisi[0] >= game.getWidth() - 20 - lebarMusuh) {
+            pengaliLangkahMaju *= -1; 
+        }
+        if (posisi[1] <= 10 || posisi[1] >= game.getHeight() - 20 - tinggiMusuh) {
+            pengaliLangkahMaju *= -1;
+        }
+    }
+
+    void gerakMenuju(Player karakter) {
+        int deltaX = karakter.posisi[0] - posisi[0];
+        int deltaY = karakter.posisi[1] - posisi[1];
+
+        int arahX = Integer.compare(deltaX, 0);
+        int arahY = Integer.compare(deltaY, 0);
+
+        majuX(arahX);
+        majuY(arahY);
+    }
+
+    void gerakRandom() {
+        Random random = new Random();
+
+        int arahX = random.nextInt(2) * 2 - 1;
+
+        int arahY = random.nextInt(2) * 2 - 1;
+        majuX(arahX);
+        majuY(arahY);
+    }
+}
+
+![karakter](https://github.com/azkaasst/azkaasst/assets/146172353/b0dd656b-01eb-455a-b9f2-1e724375a19b)
+![karakter](https://github.com/azkaasst/azkaasst/assets/146172353/4bec9040-7f1e-4bcd-b8e3-bec47dfbb371)
+
+
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
