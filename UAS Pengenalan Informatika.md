@@ -56,6 +56,7 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 https://youtu.be/wuz2cJo4apA
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+https://drive.google.com/file/d/1fs-cnyMKH6Ey-GIESsXU8qOckRWaVzpk/view?usp=drive_link
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
@@ -69,6 +70,7 @@ Referensi tutorial
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+https://drive.google.com/file/d/1G2Zrl9myidJFwZvbPnyyR-PYr1r-_z4F/view?usp=drive_link
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
@@ -85,12 +87,16 @@ Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram,
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+https://drive.google.com/file/d/14lewQoo6RCYNBsN3wRBMHOO8Ei2JPJcf/view?usp=drive_link
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+https://drive.google.com/file/d/1JCGeOWhBH6RfKBdBWEOlhshizh3jc1c5/view?usp=drive_link
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+https://drive.google.com/file/d/1TqCBneqe05zuy6sqmcatn3BoZ7RcwmQm/view?usp=drive_link
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+https://drive.google.com/file/d/1g2otNI6E3mg9cwe9flHDzEt7RHy5snul/view?usp=drive_link
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
@@ -105,6 +111,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+https://drive.google.com/file/d/14Ggr-aeSCrrz5F7xPYhqSptcxa8VdCkT/view?usp=drive_link
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 https://youtu.be/69Tz_W2GGZQ
