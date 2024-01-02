@@ -307,7 +307,6 @@ class Musuh {
 
 
 
-
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
 Link youtube nya di detik jawaban ini.
