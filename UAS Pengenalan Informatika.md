@@ -164,7 +164,7 @@ https://youtu.be/OyqRdLVpTz8
 https://www.linkedin.com/in/azka-assetya-defano-579094257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
-https://github.com/azkaasst/azkaasst/blob/main/Biodata%20Azka.MD
+https://github.com/azkaasst
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 https://blogazkan.wordpress.com/2023/12/27/google-developer-student-clubs/
