@@ -99,16 +99,21 @@ https://drive.google.com/file/d/1TqCBneqe05zuy6sqmcatn3BoZ7RcwmQm/view?usp=drive
 https://drive.google.com/file/d/1g2otNI6E3mg9cwe9flHDzEt7RHy5snul/view?usp=drive_link
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+https://youtu.be/jveOEaNG9uI
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+https://youtu.be/3ep7kEAQ6_o
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+https://youtu.be/JqoI14sfhV0
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+https://youtu.be/lW7MGToXeWY
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+https://youtu.be/VGZC_IaiTRE
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 https://drive.google.com/file/d/14Ggr-aeSCrrz5F7xPYhqSptcxa8VdCkT/view?usp=drive_link
@@ -117,6 +122,7 @@ https://drive.google.com/file/d/14Ggr-aeSCrrz5F7xPYhqSptcxa8VdCkT/view?usp=drive
 https://youtu.be/69Tz_W2GGZQ
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+https://youtu.be/_fABapcx3s0
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
