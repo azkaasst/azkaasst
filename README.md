@@ -303,7 +303,8 @@ class Musuh {
 }
 
 ![karakter](https://github.com/azkaasst/azkaasst/assets/146172353/b0dd656b-01eb-455a-b9f2-1e724375a19b)
-![karakter](https://github.com/azkaasst/azkaasst/assets/146172353/4bec9040-7f1e-4bcd-b8e3-bec47dfbb371)
+![musuh](https://github.com/azkaasst/azkaasst/assets/146172353/dadd3258-9eeb-4574-a562-dfbb62943e46)
+
 
 
 
